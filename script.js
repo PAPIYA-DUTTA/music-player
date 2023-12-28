@@ -22,7 +22,7 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'luteputegaya.jpg',
+        img : 'images\luteputegaya.jpg',
         name : 'Lutt Putt Gaya',
         artist : 'Dunki,Arijit Singh',
         music : 'luteputegaya.mp3'

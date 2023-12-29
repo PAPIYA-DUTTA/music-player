@@ -22,58 +22,58 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images\luteputegaya.jpg',
+        img : 'images/luteputegaya.jpg',
         name : 'Lutt Putt Gaya',
         artist : 'Dunki,Arijit Singh',
-        music : 'luteputegaya.mp3'
+        music : 'music/luteputegaya.mp3'
     },
     {
-        img : 'satranga.jpg',
+        img : 'images/satranga.jpg',
         name : 'Satranga',
         artist : 'Animal,Arijit Singh',
-        music : 'satranga.mp3'
+        music : 'music/satranga.mp3'
     },
     {
-        img : 'omahi.jpg',
+        img : 'images/omahi.jpg',
         name : 'Omahi',
         artist : 'Dunki,Arijit singh,pritam',
-        music : 'omahi.mp3'
+        music : 'music/omahi.mp3'
     },
     {
-        img : 'jamalkudu.jpg',
+        img : 'images/jamalkudu.jpg',
         name : 'jamalkudu',
         artist : 'animal',
-        music : 'jamallkudu.mp3'
+        music : 'music/jamallkudu.mp3'
     },
     {
-        img : 'stay.png',
+        img : 'images/stay.png',
         name : 'Stay',
         artist : 'The Kid LAROI, Justin Bieber',
-        music : 'stay.mp3'
+        music : 'music/stay.mp3'
     },
     {
-        img : 'fallingdown.jpg',
+        img : 'images/fallingdown.jpg',
         name : 'Falling Down',
         artist : 'Wid Cards',
-        music : 'fallingdown.mp3'
+        music : 'music/fallingdown.mp3'
     },
     {
-        img : 'faded.png',
+        img : 'images/faded.png',
         name : 'Faded',
         artist : 'Alan Walker',
-        music : 'Faded.mp3'
+        music : 'music/Faded.mp3'
     },
     {
-        img : 'ratherbe.jpg',
+        img : 'images/ratherbe.jpg',
         name : 'Rather Be',
         artist : 'Clean Bandit',
-        music : 'Rather Be.mp3'
+        music : 'music/Rather Be.mp3'
     },
     {
-        img : 'fighter.jpg',
+        img : 'images/fighter.jpg',
         name : 'Sher Khul Gaya',
         artist : 'Vishal-Sheykhar, Benny Dayal, Shilpa Rao',
-        music : 'fighter.mp3'
+        music : 'music/fighter.mp3'
     }
 ];
 

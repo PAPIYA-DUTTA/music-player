@@ -4,11 +4,13 @@ The Music Player is a simple project developed using JavaScript, CSS, and HTML. 
 
 this is the link of my projec https://papiya-dutta.github.io/spotify-clone-using-html-css-javascript/
 
-Project Specifications
+Project Specifications:
+
 Custom UI
 Song cover and other details are displayed
 Play and Pause
 Switch between songs
 
 How To Run the Project?
+
 To run this project, you don't need to have any kind of local server but yet a browser. We recommend you to use modern browsers like Google Chrome and Mozilla Firefox. To run this app, just, open the project in your browser by clicking the index.html file.
